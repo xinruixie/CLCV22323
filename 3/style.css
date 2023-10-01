@@ -1,0 +1,20 @@
+body {
+    background-color:rgb(166, 193, 166);
+    text-align:justify;
+    width: 800px;
+    color: rgb(239, 242, 226);
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+p {
+    font-size: 18px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
