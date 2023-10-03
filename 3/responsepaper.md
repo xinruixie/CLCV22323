@@ -29,7 +29,7 @@ A
 Basically very clear and user-friendly. The website has many intuitive visualization tools such as the map, and the search bar， participate， and help section are also easy to find to ensure smooth interaction. Categorization looks also fine. 
 ### connectivity across resources (under the principles of Linked Open Data)
 A  
-Used unique url, and it is the easily-searched http url. Many contents can also direct to other urls, including directly searching url in the search bar. 
+Used unique url, and also got the valid https. Many contents can also direct to other urls, including directly searching url in the search bar. But I didn't find a xml/rdf in its underlying structure.
 
 ## Orbis
 ### permanence and sustainability
@@ -37,10 +37,10 @@ A-
 Published by Stanford University Libraries, so its basic operation should be ensured. However, it seems that it has not been updated for a long time (at least on the front end), since the most updated info in many sections are nearly 10 years ago. I don't know if this may cause some issues in the future. Personal website of Elijah Meeks also needs to be updated: it's 404 not found now. 
 ### openness or restriction of their data
 A  
-A very obvious CSV export button on the right side of the website. 
+A very obvious CSV export button on the right side of the website, and the actual export procedure is also clear-cut.
 ### functionality of their interface and interaction with their data
 A  
 Excellent, even interesting visualization maps and fine graphic design. As a new user, the website is easy to use and the design actually encourages you to explore it as you want. Tutorial section is also very easy to find. 
 ### connectivity across resources (under the principles of Linked Open Data)
 A
-Unique, identifiable http url. Also has a list of organized urls in sections like media and news. 
+Unique, valid, and identifiable http url. Also has a list of organized urls in sections like media and news. 
