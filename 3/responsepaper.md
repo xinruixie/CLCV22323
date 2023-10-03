@@ -42,5 +42,5 @@ A very obvious CSV export button on the right side of the website, and the actua
 A  
 Excellent, even interesting visualization maps and fine graphic design. As a new user, the website is easy to use and the design actually encourages you to explore it as you want. Tutorial section is also very easy to find. 
 ### connectivity across resources (under the principles of Linked Open Data)
-A
+A  
 Unique, valid, and identifiable http url. Also has a list of organized urls in sections like media and news. 
