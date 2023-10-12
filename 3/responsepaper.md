@@ -20,16 +20,16 @@ Here, "listcities", "output" and "new" are all variables; "input" is the paramet
 ## Pleiades
 ### permanence and sustainability
 A  
-The website is powered by plone & python, a fairly famous and reliable system. It also receives funds and supports offered by participating universities such as UNC and NYU, and grants (2006-2014) from the U.S. National Endowment for the Humanities. Besides, it is lead by a group of scholars to ensure regular updates and posts (most recent in Sep 25, 2023).  
+The website is powered by plone & python, a fairly famous and reliable system. It also receives funds and supports offered by participating universities such as UNC and NYU, and grants (2006-2014) from the U.S. National Endowment for the Humanities. Besides, it is lead by a group of scholars to ensure regular updates and posts (most recent in Sep 25, 2023, very fresh).  
 ### openness or restriction of their data
 A  
-It uses the Creative Commons Attribution 3.0 License, which is a open data license. It also provides open API, so overall quite accessible. 
+It uses the Creative Commons Attribution 3.0 License, which is a open data license. It also provides open API, so overall quite accessible. There is also a comphrehensive page about its various download forms and related items.
 ### functionality of their interface and interaction with their data
 A  
-Basically very clear and user-friendly. The website has many intuitive visualization tools such as the map, and the search bar， participate， and help section are also easy to find to ensure smooth interaction. Categorization looks also fine. 
+Basically very clear and user-friendly. The website has many intuitive visualization tools such as the map, and the search bar， participate， and help section are also easy to find to ensure smooth interaction. Categorization looks also fine. However, if you want to contribute to the database or access ancient resources, an account is required. 
 ### connectivity across resources (under the principles of Linked Open Data)
 A  
-Used unique url, and also got the valid https. Many contents can also direct to other urls, including directly searching url in the search bar. But I didn't find a xml/rdf in its underlying structure.
+Used unique URI, and also got the valid https. Many contents can also direct to other URIs (e.g., Pleiades+ pairs Pleiades URI with GeoNames URIs), including directly searching them in the search bar. 
 
 ## Orbis
 ### permanence and sustainability
@@ -37,10 +37,10 @@ A-
 Published by Stanford University Libraries, so its basic operation should be ensured. However, it seems that it has not been updated for a long time (at least on the front end), since the most updated info in many sections are nearly 10 years ago. I don't know if this may cause some issues in the future. Personal website of Elijah Meeks also needs to be updated: it's 404 not found now. 
 ### openness or restriction of their data
 A  
-A very obvious CSV export button on the right side of the website, and the actual export procedure is also clear-cut.
+A very obvious CSV export button on the right side of the website, and the actual export procedure is also clear-cut. Also got license issued by CC BY-NC 3.0.
 ### functionality of their interface and interaction with their data
 A  
-Excellent, even interesting visualization maps and fine graphic design. As a new user, the website is easy to use and the design actually encourages you to explore it as you want. Tutorial section is also very easy to find. 
+Excellent, even interesting visualization maps and fine graphic design. As a new user, the website is easy to use and the design actually encourages you to explore it as you want. Tutorial section is very easy to find, too. 
 ### connectivity across resources (under the principles of Linked Open Data)
 A  
-Unique, valid, and identifiable http url. Also has a list of organized urls in sections like media and news. 
+Unique, valid, and identifiable http URI. Also has a list of organized URI in sections like media and news. 
