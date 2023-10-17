@@ -1,3 +1,8 @@
+# Respons Paper  
+A historical gazetteer is a special kind of gazetteer, which not merely serves as a dictionary of geographical names, but also helps posit these places in historical contexts by providing relative information, such as the place’s vernacular names, political division/administrative boundaries, and historical variation in coordinates, etc. It is primarily used to “help reference particular instances of place names”, however, as its wide preservation of historical knowledge, it can also be used to facilitate various researches, enabling scholars to look into multifacet cultural, historical, architectural, political, etc. information bond to a certain place as per needs.
+
+Pleiades as a historian gazetteer is rather unique, as it not only includes those named features, but also those lost/without historical names and those uncertain places. Pleiades differs from Barrington Atlas in several ways. First and foremost, whereas the effective precision of spatial coordinates in Barrington Atlas is only in a range of 2-10 kilometers, Pleiades, by utilizing Open Street Map, has largely improved both its precision and accuracy. Second, types of features (e.g., temples, sanctuaries) mapped is no longer limited in Pleiades, as they have been manually added to more areas and been interconnected by prototype vocabulary of both topographical and thematic relationships. In addition, Pleiades underscores flexibility, which allows a more nuanced classification of places with considerations of over-time changes, collaboration in editing contents, and wider connections to other sources. 
+
 # Digital Tool Critique
 ## Thesaurus linguae Latinae (TLL)
 ### permanence and sustainability  
